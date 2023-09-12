@@ -23,6 +23,16 @@
         "id": "https://zillingworth.github.io/maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/maya-deren/annotations/meshes-of-the-afternoon-canvas-1-shadow.json",
+            "label": {
+              "none": ["Shadow"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/maya-deren/meshes-of-the-afternoon/canvas-1/paintings",
